@@ -1,5 +1,5 @@
-ProjectTox-Website
-==================
+ProjectTox- A Unique Website
+=============================
 
 Source code for the Tox.im website
 
